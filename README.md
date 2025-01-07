@@ -4,7 +4,7 @@
 
 
 This repository is the ```official open-source``` of [Enhanced anomaly detection in
-pandemic surveillance videos: An attention approach with EfficientNet-B0 and CBAM integration](https://doi.org/10.1002/aisy.202300706)
+pandemic surveillance videos: An attention approach with EfficientNet-B0 and CBAM integration](https://doi.org/10.1109/ACCESS.2024.3488797)
 by SAREER UL AMIN, MUHAMMAD SIBTAIN ABBAS, BUMSOO KIM, YONGHOON JUNG,
 AND SANGHYUN SEO
 
