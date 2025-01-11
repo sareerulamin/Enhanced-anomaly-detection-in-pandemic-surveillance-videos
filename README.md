@@ -103,16 +103,17 @@ Visualization Results of Gradient-weighted Class Activation Mapping (Grad-CAM). 
 ## Citation
 If you find this code useful, please cite our paper:
 ```bash
-@article{gupta2024video,
-  title={Video Anomaly Detection Based on HSOE-FAST Modified Deep Neural Network},
-  author={Gupta, Anil Kumar and Sharma, Rupak and Ojha, Rudra Pratap},
-  journal={SN Computer Science},
-  volume={5},
-  number={5},
-  pages={588},
+@ARTICLE{10740272,
+  author={Ul Amin, Sareer and Sibtain Abbas, Muhammad and Kim, Bumsoo and Jung, Yonghoon and Seo, Sanghyun},
+  journal={IEEE Access}, 
+  title={Enhanced Anomaly Detection in Pandemic Surveillance Videos: An Attention Approach With EfficientNet-B0 and CBAM Integration}, 
   year={2024},
-  publisher={Springer}
-}
+  volume={12},
+  number={},
+  pages={162697-162712},
+  keywords={Anomaly detection;Videos;Surveillance;COVID-19;Diseases;Social factors;Human factors;Computer viruses;Accuracy;Pandemics;Computer vision;Anomaly detection;video surveillance;computer vision;attention method;intelligent surveillance system},
+  doi={10.1109/ACCESS.2024.3488797}}
+
 ```
 
 ## Acknowledgments
